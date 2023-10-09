@@ -1,0 +1,73 @@
+body{
+    background-color: black;
+}
+
+
+.row{
+   
+    margin: 20px 20px;
+    width: 80%;
+    text-align: center;
+    
+
+}
+.col-left{
+    margin-left: 40px;
+    width: 60%;
+}
+.col-right{
+   
+}
+
+.summary{
+    margin: 30px 0px;
+}
+.experience{
+    margin-top: 45px;
+}
+.education{
+    margin-top: 35px;
+}
+
+span{
+    color: blue;
+    
+}
+img{
+    border-radius: 50%;
+    height: 150px;
+    align-items: center;
+    padding: 20px 20px;
+    
+}
+#font1{
+    letter-spacing: 3px;
+    
+}
+#font2{
+    letter-spacing: 3px;
+    
+}
+#font3{
+    letter-spacing: 5px;
+    
+}
+
+.cv-pic {
+    background-color: rgb(3, 42, 82);
+    width: 20%;
+
+   
+    
+}
+.hr{
+
+    border-top: 5px solid rgb(167, 163, 163);
+    border-radius: 20px;
+}
+.img-detail{
+    color: white;
+}
+.skill{
+    color: white;
+}
